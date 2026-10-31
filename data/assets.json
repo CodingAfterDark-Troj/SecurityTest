@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "tag": "HD-0001",
+    "name": "Dell Latitude 7450",
+    "type": "Laptop",
+    "serial": "DL7450-88A1",
+    "assignedTo": "jsmith",
+    "location": "HQ - Floor 2",
+    "status": "In Use",
+    "hostname": "127.0.0.1",
+    "notes": "Battery replaced 2026-03"
+  },
+  {
+    "id": 2,
+    "tag": "HD-0002",
+    "name": "HP LaserJet M507",
+    "type": "Printer",
+    "serial": "HPLJ-55021",
+    "assignedTo": "",
+    "location": "HQ - Floor 1",
+    "status": "Available",
+    "hostname": "localhost",
+    "notes": "Toner low"
+  },
+  {
+    "id": 3,
+    "tag": "HD-0003",
+    "name": "Cisco Catalyst 9200",
+    "type": "Network",
+    "serial": "CSC9200-X77",
+    "assignedTo": "netops",
+    "location": "Server Room",
+    "status": "In Use",
+    "hostname": "127.0.0.1",
+    "notes": "Admin console creds in the IT vault"
+  }
+]

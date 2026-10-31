@@ -1,0 +1,15 @@
+{
+  "name": "helpdesk-asset-manager",
+  "version": "1.0.0",
+  "description": "Helpdesk asset management system (intentionally vulnerable - security training only)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.21.2",
+    "jquery": "1.12.4"
+  }
+}
